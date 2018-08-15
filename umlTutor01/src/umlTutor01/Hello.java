@@ -5,6 +5,8 @@ public class Hello {
 	private int a;
 	private int b;
 	
+	private A aa = null;
+	
 	public Hello() {
 		super();
 		// TODO Auto-generated constructor stub
